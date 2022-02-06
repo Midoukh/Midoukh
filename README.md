@@ -5,10 +5,10 @@ My name is Ahmed Khelili and I'm front-end developer
 
 📧 You can find me here
 <div style="display: flex; align-items: center;">
-  <a herf="https://www.linkedin.com/in/khelili-ahmed-098a99172/" target="_blank">
+  <a href="https://www.linkedin.com/in/khelili-ahmed-098a99172/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" width="30" height="30"/>
   </a>
-  <a herf="https://www.ahmedkhelili.dev" target="_blank">
+  <a href="https://www.ahmedkhelili.dev" target="_blank">
     <img src="https://mpng.subpng.com/20181115/jij/kisspng-world-computer-icons-favicon-symbol-illustration-cross-channel-marketing-platform-experian-market-5bee2cd8a6c218.0954288615423357046831.jpg" height="30"/>
   </a>
 </div>
